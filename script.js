@@ -1,4 +1,6 @@
-
+let seconds = 00;
+let tens = 00;
+let mins = 00;
 
 
 let getMins = document.querySelector(`span.mins`);
